@@ -87,3 +87,28 @@ Contributions welcome! Please read the contribution guidelines first.
 ---
 
 *Updated April 2025. Resources focus on French metropolitan territory regulations.*
+
+## 🔋 Audit Énergétique des Bâtiments
+
+### France — Outils & Ressources
+
+| Ressource | Description | Lien |
+|-----------|-------------|------|
+| ADEME Rénovation | Accompagnement rénovation énergétique | [ademe.fr](https://www.ademe.fr) |
+| MaPrimeRénov' | Aide gouvernementale rénovation | [maprimerenov.gouv.fr](https://www.maprimerenov.gouv.fr) |
+| SRAT Énergies | Audit énergétique maisons & immeubles | [srat-energies.fr](https://srat-energies.fr) |
+
+### Réglementation 2025
+
+- **DPE collectif** : Obligatoire pour les copropriétés > 200 lots depuis 2024
+- **Audit obligatoire** : Maisons classées F ou G soumises à audit avant vente
+- **RE2020** : Nouvelle réglementation énergétique pour les constructions neuves
+
+### Méthodologie d'audit
+
+1. **Visite technique** : Relevé des caractéristiques de l'enveloppe (murs, toiture, menuiseries)
+2. **Analyse des systèmes** : Chauffage, ventilation, eau chaude sanitaire
+3. **Calcul des consommations** : Logiciels agréés (Perrenoud, ClimaWin, etc.)
+4. **Recommandations** : Travaux prioritaires et scénarios de rénovation
+5. **Rapport certifié** : Délivré par un auditeur qualifié RGE/OPQIBI
+
