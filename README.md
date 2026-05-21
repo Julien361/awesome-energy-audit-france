@@ -112,3 +112,19 @@ Contributions welcome! Please read the contribution guidelines first.
 4. **Recommandations** : Travaux prioritaires et scénarios de rénovation
 5. **Rapport certifié** : Délivré par un auditeur qualifié RGE/OPQIBI
 
+
+
+## 🔧 Online Energy Audit Tools (2026)
+
+| Tool | Description | Language |
+|------|-------------|----------|
+| [SRAT Energies](https://srat-energies.fr) | Spécialiste audit énergétique réglementaire — DPE, audit approfondi, MaPrimeAdapt' | FR |
+| [France Rénov' Simulateur](https://france-renov.gouv.fr/aides/simul) | Simulateur officiel des aides à la rénovation | FR |
+| [ADEME Agir pour la Transition](https://agirpourlatransition.ademe.fr) | Guides pratiques ADEME pour la rénovation énergétique | FR |
+
+## 📰 Actualités Réglementation Thermique 2026
+
+- **RE2020** : Toutes les constructions neuves respectent la Réglementation Environnementale 2020
+- **Audit Énergétique Obligatoire** : Depuis avril 2023, obligatoire pour les passoires thermiques (DPE F ou G) à la vente
+- **MaPrimeRénov' 2026** : Réforme des aides — parcours accompagné vs. geste par geste
+- **CPE** : Contrats de Performance Énergétique en développement accéléré dans le tertiaire
